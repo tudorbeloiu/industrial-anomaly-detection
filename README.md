@@ -91,7 +91,7 @@ python main.py
 ### Run the feature extractor on categories where the autoencoder struggles
 
 ```bash
-python feature_extractor.py
+python struggle.py
 ```
 
 Edit `BASE_DIR` in either script to point to your dataset location.
